@@ -3,7 +3,7 @@
 A simple chatbot that answers your questions.
 If it does not know the answer - it asks you to provide one so it can learn. 
 
-#Instruction
+Instruction
 
     1. Load the knowledge base from a JSON file.
     2. Continuously prompt the user for questions.
